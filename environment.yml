@@ -1,0 +1,9 @@
+name: example-environment
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.6
+  - magenta
+  - pip:
+    - python-rtmidi
