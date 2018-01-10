@@ -1,3 +1,4 @@
 build-essential
 libasound2-dev
 libjack-dev
+fluidsynth
