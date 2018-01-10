@@ -2,7 +2,8 @@ name: example-environment
 channels:
   - defaults
 dependencies:
-  - python=3.6
+  - python=2
   - pip:
     - magenta
     - python-rtmidi
+    - pyfluidsynth
